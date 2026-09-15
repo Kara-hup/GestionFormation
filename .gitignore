@@ -1,0 +1,17 @@
+﻿# Config sensible
+config/config.php
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Uploads
+assets/images/uploads/
